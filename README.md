@@ -24,14 +24,14 @@ Libraries: requests, pandas, matplotlib
 ## Example Output
 The output will show a line plot representing:
 
-Temperature (°C)
-Humidity (%)
-Wind Speed (m/s)
-Precipitation (mm)
-Each city's data will be displayed in different colors for easy comparison.
+        Temperature (°C)
+        Humidity (%)
+        Wind Speed (m/s)
+        Precipitation (mm)
+        Each city's data will be displayed in different colors for easy comparison.
 
 ## Note
 Ensure that you adhere to the OpenWeatherMap API usage policies, including rate limits.
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
